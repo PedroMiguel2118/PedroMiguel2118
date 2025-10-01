@@ -16,7 +16,7 @@
 <div align="center">
 
 ### 🐍 Python
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-Intermediate-000000?style=flat-square&logo=flask)
 
 ### 🌐 Frontend
