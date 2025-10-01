@@ -240,3 +240,12 @@ print("🚀 Projetos Python:", dev.mostrar_projetos())
     </script>
 </body>
 </html>
+</div>
+🎯 Próximos Objetivos
+Desenvolver mais projetos full stack
+
+Aprofundar em Python avançado
+
+Criar animações CSS mais complexas
+
+Otimizar performance JavaScript
