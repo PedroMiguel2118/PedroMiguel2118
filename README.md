@@ -20,35 +20,8 @@
 ![Flask](https://img.shields.io/badge/Flask-Intermediate-000000?style=flat-square&logo=flask)
 
 ### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-Expert-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-Intermediary-E34F26?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-Intermediary-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediary-F7DF1E?style=flat-square&logo=javascript)
 
 </div>
-
-## 💡 Habilidades Técnicas
-
-### 🐍 Python
-```python
-class HabilidadesPython:
-    def __init__(self):
-        self.conhecimentos = [
-            "Programação Orientada a Objetos",
-            "APIs REST com Flask/FastAPI", 
-            "Automação de tarefas",
-            "Web Scraping com BeautifulSoup",
-            "Processamento de dados",
-            "Scripts para backend"
-        ]
-    
-    def mostrar_projetos(self):
-        projetos = {
-            "web_apps": "Aplicações web completas",
-            "apis_rest": "APIs robustas e escaláveis", 
-            "automacao": "Scripts de automação",
-            "data_processing": "Processamento de dados"
-        }
-        return projetos
-
-dev = HabilidadesPython()
-print("🚀 Projetos Python:", dev.mostrar_projetos())
